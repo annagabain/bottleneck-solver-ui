@@ -17,5 +17,6 @@ Interactive Gantt-Style Chart – Visualizes production phases with AI-driven re
 Example Bottleneck Case:
 A soldering machine is operating slower than expected, causing delays in the production line. AI detects the slowdown, suggests preventive maintenance, and recommends redistributing work to avoid inefficiencies.
 
-![Bottleneck Solver UI](public\bottleneck-dashboard-mockup.png)
 
+
+![Bottleneck Solver UI](public/bottleneck-dashboard-mockup.png)
